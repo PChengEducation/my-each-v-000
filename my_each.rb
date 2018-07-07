@@ -7,6 +7,7 @@ def my_each(collection) # put argument(s) here
       i = i + 1
     end
   end
+  return collection
 end
 
 collection = [1, 2, 3, 4]
